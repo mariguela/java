@@ -6,7 +6,7 @@ import javax.persistence.*;
 
 
 /**
- * Created by netshoes on 10/05/17.
+ * Created by Mariguela on 10/05/17.
  */
 @Data
 @Table
