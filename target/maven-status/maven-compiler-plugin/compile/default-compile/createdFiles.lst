@@ -1,0 +1,4 @@
+leo/Application.class
+leo/controller/ContatoController.class
+leo/domain/Contato.class
+leo/repository/ContatoRepository.class
